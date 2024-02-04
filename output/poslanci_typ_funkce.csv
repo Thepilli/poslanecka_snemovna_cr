@@ -1,0 +1,138 @@
+id_typ_funkce,id_typ_org,typ_funkce_cz,typ_funkce_en,priorita,typ_funkce_obecny
+1,1,Místopředseda,Vice-chairman,2,2
+2,1,Předseda,Chairman,1,1
+4,2,Ověřovatel komise,Verifier of commission,5,3
+7,3,Ověřovatel výboru,Verifier of committee,20,3
+9,3,Tajemník - ověřovatel výboru,Secretary - verifier of committee,10,3
+12,7,Náhradník delegace,Alternate of delegation,6,0
+14,7,Vedoucí delegace,Head of delegation,2,1
+17,11,Ověřovatel,Verifier,5,3
+19,13,Předseda,Chairperson,1,1
+20,13,Místopředseda,Vice-chairperson,2,2
+22,29,Místopředseda,Vice-chairperson,2,2
+23,29,Předseda,Chairperson,1,1
+24,29,Zapisovatel výboru, ,5,0
+25,27,Předseda,Chairperson,1,1
+26,27,Místopředseda,Vice-chairperson,2,2
+27,27,Zapisovatel, ,40,0
+28,27,Pořadatel, ,50,0
+29,24,Předseda, ,1,1
+30,24,Místopředseda, ,2,2
+31,24,Zapisovatel, ,10,0
+32,24,Pořadatel, ,15,0
+33,33,Předseda,Chairperson,1,1
+34,33,Místopředseda,Vice-chairperson,2,2
+35,33,Zapisovatel,Secretary,10,0
+37,15,Prezident, ,1,0
+38,15,Viceprezident, ,2,0
+90,74,Delegát, ,10,0
+42,15,Ředitel, ,1,1
+89,42,Člen, ,5,0
+91,74,Náhradník, ,20,0
+92,1,Člen vedení klubu, ,10,0
+96,5,Ministr,Minister,201,0
+54,5,Ministr zahraničních věcí,Minister of Foreign Affairs,114,0
+57,5,Ministr zemědělství,Minister of Agriculture,116,0
+61,5,Ministr životního prostředí,Minister for the Environment,117,0
+63,5,Ministr dopravy a spojů, ,102,0
+66,40,Předseda,Chairperson,1,1
+67,40,První místopředseda, ,2,2
+68,41,Místopředseda,Vice-chairperson,2,2
+69,5,Člen vlády, ,200,0
+71,45,Člen,Member,10,0
+72,45,Náhradník, ,10,0
+98,7,Náhradník, ,7,4
+74,42,Náhradník, ,10,0
+99,4,Garanční předseda, ,1,1
+76,41,Člen,Member,100,0
+77,20,Předseda,Chairperson,1,0
+78,20,Místopředseda,Vice-chairperson,2,0
+79,23,Předseda,Chairperson,1,1
+80,23,Místopředseda,Vice-chairperson,2,2
+81,26,Předseda,Chairperson,1,1
+82,26,Místopředseda,Vice-chairperson,2,2
+83,25,Předseda,Chairperson,1,1
+84,25,Místopředseda,Vice-chairperson,2,2
+85,57,Předseda,Chairperson,1,0
+86,57,Místopředseda,Vice-chairperson,2,0
+87,15,Předseda,Chairperson,1,1
+88,15,Člen,Member,100,0
+100,15,Finanční arbitr, ,111,1
+102,13,Člen,Member,30,0
+103,13,Pozorovatel,Observer,50,0
+105,5,Ministr informatiky, ,105,0
+106,77,Pozorovatel,Observer,20,0
+107,77,Náhradník, ,30,0
+108,78,Předseda,Chairman,1,1
+109,77,Poslanec,Member,10,0
+110,1,Revizor, ,500,0
+113,5,Ministr hospodářství, ,105,0
+115,3,1. místopředseda, ,2,2
+116,3,2. místopředseda, ,3,2
+117,82,Člen, ,50,0
+118,82,Ředitel, ,30,0
+119,82,Předseda, ,31,0
+121,82,Vrchní ředitel, ,41,0
+122,82,Viceguvernér, ,29,0
+123,82,Vedoucí, ,44,0
+124,82,Člen bankovní rady, ,42,0
+125,84,Interní auditor,Internal Auditor,1000,0
+126,82,Inspektor, ,48,0
+127,5,Ministr pro evropské záležitosti,Minister for European Affairs,170,0
+128,15,Místopředseda, ,10,2
+129,1,Člen předsednictva, ,20,0
+130,3,3. místopředseda, ,4,2
+131,3,4. místopředseda, ,5,2
+132,3,5. místopředseda, ,6,2
+133,3,6. místopředseda, ,7,2
+134,3,7. místopředseda, ,8,2
+8,3,Předseda,Chairman,1,1
+11,4,Předseda,Chairman,2,1
+10,4,Místopředseda,Vice-chairman,3,2
+112,4,Ověřovatel, ,40,3
+6,3,Místopředseda,Vice-chairman,9,2
+5,2,Předseda,Chairman,1,1
+3,2,Místopředseda,Vice-chairman,2,2
+21,7,Místopředseda,Vice-chairman,3,2
+13,7,Předseda,Chairman,1,1
+97,7,Člen, ,5,0
+135,84,Místopředseda,Vice-chairman,10,2
+15,5,Předseda vlády,Chairperson,1,1
+36,5,Místopředseda vlády,Vice-chairperson,2,2
+64,5,Ministr obrany,Minister of Defence,107,0
+52,5,Ministr práce a sociálních věcí,Minister of Labour and Social Affairs,108,0
+65,5,"Ministr školství, mládeže a tělovýchovy","Minister for Education, Youth and Sports",111,0
+62,5,Ministr spravedlnosti,Minister of Justice,112,0
+60,5,Ministr vnitra,Minister of the Interior,113,0
+104,5,Ministr dopravy,Minister of Transport,103,0
+53,5,Ministr financí,Minister of Finance,104,0
+56,5,Ministr kultury,Minister of Culture,106,0
+55,5,Ministr pro místní rozvoj,Minister of Regional Development,109,0
+59,5,Ministr průmyslu a obchodu,Minister of Industry and Trade,110,0
+58,5,Ministr zdravotnictví,Minister of Health,115,0
+120,82,Guvernér, ,21,0
+70,18,Prezident,President,1,0
+40,15,Veřejný ochránce práv, ,101,0
+101,15,Zástupce finančního arbitra, ,112,0
+41,15,Zástupce veřejného ochránce práv, ,102,0
+16,11,Místopředseda,Vicepresident,2,2
+18,11,Předseda,Speaker,1,1
+138,15,Člen z kandidátů Poslanecké sněmovny, ,511,0
+139,15,Člen z kandidátů Senátu, ,512,0
+140,15,Člen z kandidátů NKÚ, ,513,0
+93,1,1. místopředseda, ,4,2
+94,1,2. místopředseda, ,5,2
+95,1,3. místopředseda, ,6,2
+111,1,4. místopředseda, ,7,2
+114,1,5. místopředseda, ,8,2
+141,15,Předseda navržený předsedou vlády ČR, ,521,1
+142,15,Člen navržený Senátem, ,522,0
+143,15,Člen navržený ČNB, ,523,0
+144,5,Ministr pro vědu a výzkum,"Minister of Science, Research and Innovation",140,0
+145,1,6. místopředseda, ,9,2
+146,119,Předseda, ,10,0
+147,119,Místopředseda, ,50,0
+148,119,Člen volený PS, ,101,0
+149,119,Člen volený Senátem, ,111,0
+150,15,Člen volený PS, ,1001,0
+151,15,Člen volený Senátem, ,1002,0

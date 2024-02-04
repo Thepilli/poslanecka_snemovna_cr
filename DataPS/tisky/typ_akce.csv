@@ -1,0 +1,230 @@
+id_akce,popis_akce
+1,bez usnesení
+2,doporučen
+3,doručen
+4,doručeno
+5,nečinná
+6,nečinný
+7,nepodepsal
+8,nepřijat
+9,nepřítomen
+10,nesouhlas
+11,nezabýval se
+12,odeslán
+13,podepsal
+14,postoupen
+15,pozm. přijat
+16,předložen
+17,přerušeno
+18,přikázán
+19,rozeslán
+20,setrváno
+21,schválen
+22,souhlas
+23,ukončena
+24,vrácen
+25,vyhlášena
+26,vzat zpět
+27,zamítnut
+28,zamítnuto
+29,zařadil
+30,zasláno
+31,odročeno
+32,opakovat
+33,schváleno
+34,zamítnuto
+35,vzato na vědomí
+36,projednáno bez usnesení
+37,nezabývala se
+38,vráceno k přepracování
+39,staženo
+40,souhlas s RJ
+41,nesouhlas s RJ
+42,vráceno k projednání do výboru
+43,revokace usnesení
+44,přerušeno do projednání
+45,neschválen
+46,neschválena
+47,změna lhůty
+48,staženo a odročeno
+49,nesouhlas se zákonem
+50,vzat zpět před projednáním
+51,usnesení výboru
+52,projednat
+53,nezabývat se
+54,stanovisko vlády
+55,postoupit předsedovi
+56,schváleno s doporučením
+57,rozdáno poslancům
+58,"bere na vědomí, žádost o inf."
+59,změna lhůty pozmň. návrhu
+60,"ukončena, návrh na zamítnutí"
+61,není pozměň. návrh
+62,konstatuje projednání v Radě
+63,bere na vědomí
+64,nezaujala stanovisko
+65,postoupit k projednání výboru
+66,postoupit k projednání sněmovnou
+67,projednáno s usnesením
+68,opravená verze
+69,neschváleno zkrácení lhůty
+70,žádá vládu o další informace
+71,projednávání ukončeno
+72,"vráceno k projednání výborům, změna lhůty"
+73,pozměňovací návrh
+74,bere bez projednávání na vědomí
+75,chyba v schvalenem zneni
+76,nahrazeno novou verzi
+77,předčasně projednávání výborem
+78,nastaven garanční výbor
+79,garanční výbor určen PS
+80,změna jednacího řádu
+81,garanční výbor nebude projednávat
+82,nepřihlédnuto k námitce
+83,námitka proti projednávání
+84,vráceno garančnímu výboru k novému projednání
+85,začátek pro zkrácení lhůty PN
+86,"není pozm. návrh, GV nebude projednávat"
+87,"nečinný, uplynulo 30 dnů od doručení pozm. návrhu"
+90,neprojednatelné: zánik mandátu
+91,bere na vědomí stanovisko vlády
+92,dokument
+93,ukončeno leg. odborem
+94,nezařazeno
+95,(ukončeno)
+96,změna zpravodaje
+97,vynechána
+98,vydano
+100,Předloženo
+101,Upuštěno od zásad
+102,Upuštěno od zásad 2
+103,Lhůta zkrácena
+104,Lhůta zkrácena 2
+105,Rozdáno
+106,Do vlády
+107,Stanovisko vlády
+108,Schůzka zpravodajů
+109,Zařadit od
+110,Předloženo
+111,Rozdáno
+112,Do vlády
+113,Stanovisko vlády
+114,Projednáno v organizačním výbo
+115,Stanovisko organizačního výbor
+116,Odesláno autorovi
+117,Návrh zákona číslo ...
+118,Předáno KPR
+119,Vráceno KPR
+120,Předáno UVČR
+121,Vráceno UVČR
+122,Stanovisko vlády
+123,Schváleno (v dBase není datum)
+124,Neschváleno (v dBase není datu
+125,Návrh vzat zpět (v dBase není
+126,Zásady neupuštěny (v dBase nen
+127,Předloženo
+128,"Rozdáno, přikázáno"
+129,Zkrácená 60-ti denní lhůta
+130,Zařazeno
+131,Schváleno
+132,Neschváleno
+133,Odesláno do vlády
+134,Podáno dne
+135,Odpověď
+136,Projednáno s výsledkem - nevyp
+137,Projednáno s výsledkem Souhlas
+138,Projednáno s výsledkem Nesouhl
+139,Projednáno s výsledkem Bere na
+140,Projednáno s výsledkem Bez usn
+141,Projednáno s výsledkem přeruše
+142,Předloženo
+143,Rozdáno
+144,Schváleno
+145,Neschváleno
+146,Schvaleno zkr. lhuty
+147,Neschvaleno zkr. lhuty
+148,Puvodne tisk CNR
+149,Oprava tisku
+150,Spolecna zprava
+151,Upusteno od zasad
+152,Lhuta zkracena
+153,Zamitnuto zkr. lhuty
+154,Lhuta znovu zkracena
+155,Zamitnuto opretovne zkr. lhuty
+156,Sbirka zakonu
+157,Zasady
+158,Projednano upusteni od zasad
+159,Projednano
+160,Nova spolecna zprava
+161,vyhlášení leg. nouze
+162,potvrzení leg. nouze
+163,posouzení leg. nouze
+164,zamítnuto - ústavní zákon
+165,projednáno
+166,rozdána přepracovaná verze
+167,Prezident nepodepsal
+168,Sněmovna neschválila
+170,bere na vědomí s doporučením
+171,podporuje pozici vlády ČR
+172,"žádá vládu, aby věnovala problematice zvýšenou pozornost"
+173,bere na vědomí a souhlasí s rámcovou pozicí vlády (k tomuto dokumentu)
+174,přerušuje projednávání
+175,"žádá vládu, aby nepodpořila návrh této směrnice"
+176,"schvaluje rámcovou pozici a žádá vládu, aby ho informovala o dalším projednávání tohoto dokumentu"
+177,"bere na vědomí a žádá vládu, aby důsledně hájila svou pozici"
+178,"žádá vládu, aby trvala na doplnění analýzy dopadů o návrhy konkrétních opatření pro jednotlivé členské státy a doporučuje vládě vycházet ze stávajících dokumentů OECD"
+179,se rozhodl uspořádat seminář
+180,shledává nařízení sporným z hlediska principu subsidiarity
+181,"dospěl k závěru, že navrhovaný právní akt překračuje rámec pravomocí Evropských společenství"
+182,bere na vědomí rámcovou pozici vlády ČR k tomuto dokumentu
+183,bere na vědomí rámcovou pozici vlády ČR k tomuto dokumentu a žádá vládu o další informace
+184,bere na vědomí rámcovou pozici vlády ČR k tomuto dokumentu a podporuje pozici vlády ČR
+185,"žádá vládu, aby jej seznámila s odpověďmi České republiky na otázky položené v Zelené knize a aby jej průběžně informovala o dalším průběhu projednávání tohoto dokumentu"
+186,"vyslovuje souhlas s názorem Komise, že koncové ceny mezinárodního roamingu pro mobilní komunikace je třeba snížit, upozorňuje však, že navržený způsob regulace by mohl omezit konkurenční prostředí na telekomunikačním trhu a je v rozporu se zásadou přiměřenosti"
+187,přerušuje projednávání tohoto dokumentu
+188,"žádá vládu, aby stanovila priority České republiky v rámci předloženého Legislativního a pracovního programu Komise"
+189,"žádá vládu, aby trvala na zařazení spalování komunálního odpadu ve spalovnách mezi způsoby odstraňování odpadů s poukazem na to, že zařazení mezi způsoby využití by ohrozilo velmi důležité zájmy ČR v oblasti životního prostředí"
+190,"je přesvědčen o zvýšené potřebě transparentnosti, která by měla případné prohlubování bezpečnostní politiky na evropské úrovni doprovázet. Proto VEZ žádá vládu o předložení zpracovaných odpovědí na otázky Zelené knihy o detekčních technologiích."
+191,staženo z pořadu schůze
+192,ORGV nedoporucil PS projednani
+193,nesouhlasí s pozicí vlády
+194,bere na vědomí a  nesouhlasí s pozicí vlády
+195,nové znění pozmn. návrhů
+196,změna zpravodaje rozhodnutím předsedy
+197,projednáno garančním výborem
+198,postoupeno výboru k informaci
+199,usnesení s požadavkem
+200,obdržen dokument
+201,kontrola usnesení
+202,normální usnesení
+203,vyžadující souhlas obou komor
+204,požadavek na RJ vzat zpět
+205,nevysloven souhlas
+206,"vzato na vědomí bez projednání, postoupeno výboru"
+207,"projednat, postoupit výboru pro informaci"
+208,předběžné projednávání
+209,(nepoužito)
+210,"pozm. návrhy, nerozeslány jako sněmovní tisk"
+211,rozhodl o projednávání ve zkráceném jednání
+212,nebude projednáváno v zkráceném jednání
+213,neschváleno projednávání v zkráceném jednání
+214,nedosaženo kvora pro hlasování - přerušeno
+215,neschváleno pokračování legislativní nouze
+216,dokument leg. odboru
+217,"pozm. návrhy, netištěno"
+218,uplynulo trvání legislativní nouze
+219,doporučuje zařadit bez projednání ve výboru
+220,"podklad k projednání PS dle par. 1, odst. 2"
+221,"přikázán, doporučil projednání v PS"
+222,ORGV doporučil projednání v PS
+223,žádost o zařazení do schůze PS (věcný výbor)
+224,žádost o zařazení do schůze PS (výbor)
+225,žádost o zařazení do schůze PS (menšina výboru v oponentní zprávě)
+226,žádost o zařazení do schůze PS (klub)
+227,žádost o zařazení do nejbližší schůze PS (klub)
+228,usnesení výboru je rozhodnutím Sněmovny
+229,"nečinný, zařazeno bez projednání ve výboru"
+230,projednáno ve věcně příslušném výboru
+231,upuštěno od obecné rozpravy
+232,předčasné projednání výborem
+233,přerušeno uplynutím času pro odpovědi na písemné interpelace

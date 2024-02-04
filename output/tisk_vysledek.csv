@@ -1,0 +1,31 @@
+id_vysledek,druh_vysledek
+1,schvaluje
+2,pozměňovací návrhy
+3,záznam jednání
+4,komplexní pozmněňovací návrh
+5,doporučuje schválit
+6,bere na vědomí
+7,přerušuje projednávání
+8,"bere na vědomí, doplňující usnesení"
+9,"doporučuje schválit, doplňující usnesení"
+10,doporučuje zamítnout
+11,doporučuje PS přerušit projednávání
+12,doporučuje vzít na vědomí
+13,návrh doplňujícího usnesení
+14,návrh procedurálního usnesení
+15,nezabýval se
+16,doporučuje projednávání
+17,nesouhlas
+18,připomínky
+19,souhlas
+20,doporučuje nezahajovat projednávání
+21,doporučuje neschválit
+22,neutrální
+23,bez stanoviska
+24,projednal
+25,ruší usnesení
+26,revokuje usnesení
+27,doporučuje vzít zpět
+28,stanovisko
+29,procedurální usnesení
+30,odůvodněné stanovisko
