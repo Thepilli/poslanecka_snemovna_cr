@@ -1,0 +1,149 @@
+Tabulka druh_tisku
+[
+    ["id_druh",int],
+["druh_t",str],
+["nazev_druh",str],
+]
+
+
+Tabulka typ_zakon
+[
+    ["id_navrh",int],
+["druh_navrhovatele",str],
+]
+
+
+Tabulka typ_stavu
+[
+    ["id_typ",int],
+["popis_stavu",str],
+]
+
+
+Tabulka stavy
+[
+    ["id_stav",int],
+["id_typ",int],
+["id_druh",int],
+["popis",str],
+["lhuta",int],
+["lhuta_where",int],
+]
+
+
+Tabulka typ_akce
+[
+    ["id_akce",int],
+["popis_akce",str],
+]
+
+Tabulka prechody
+["id_prechod",int],
+["odkud",int],
+["kam",int],
+["id_akce",int],
+["typ_prechodu",int],
+
+
+Tabulka tisky
+[
+    ["id_tisk",int],
+["id_druh",int],
+["id_stav",int],
+["ct",int],
+["cislo_za",int],
+["id_navrh",int],
+["id_org",int],
+["id_org_obd",int],
+["id_osoba",int],
+["navrhovatel",str],
+["nazev_tisku",str],
+["predlozeno",str],
+["rozeslano",str],
+["dal",str],
+["tech_nos_dat",str],
+["uplny_nazev_tisku",str],
+["zm_lhuty",int],
+["lhuta",int],
+["rj",int],
+["t_url",str],
+["is_eu",int],
+["roz",str],
+["is_sdv",int],
+["status",int],
+]
+
+
+Tabulka hist
+[
+    ["id_hist",int],
+["id_tisk",int],
+["datum",str],
+["id_hlas",int],
+["id_prechod",int],
+["id_bod",int],
+["schuze",int],
+["usnes_ps",int],
+["orgv_id_posl",int],
+["ps_id_posl",int],
+["orgv_p_usn",int],
+["zaver_publik",str],
+["zaver_sb_castka",int],
+["zaver_sb_cislo",int],
+["poznamka",str],
+]
+
+
+Tabulka hist_vybory
+[
+    ["id_tisku",int],
+["id_organ",int],
+["typ",int],
+["id_hist",int],
+["id_posl",int],
+["poradi",int],
+]
+
+
+Tabulka vysledek
+[
+    ["id_vysledek",int],
+["druh_vysledek",str],
+]
+
+Tabulka tisky_za
+[
+    ["id_tisk",int],
+["cislo_za",int],
+["id_hist",int],
+["id_druh",int],
+["nazev_za",str],
+["uplny_nazev_za",str],
+["rozeslano",str],
+["id_org",int],
+["usn_vybor",int],
+["id_posl",int],
+["t_url",str],
+["id_vysledek",int],
+["cislo_za_post",int],
+["sort_it",int],
+["roz",str],
+["status",int],
+]
+
+
+Tabulka predkladatel
+[
+    ["id_tisk",int],
+["id_osoba",int],
+["poradi",int],
+["typ",int],
+]
+
+Tabulka navrh_podpis
+[
+    ["id_tisk",int],
+["id_osoba",int],
+["stav",int],
+["datum",str],
+]
