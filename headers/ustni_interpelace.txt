@@ -1,0 +1,40 @@
+Tabulka uitypv
+[
+    ["id_ui_stav",int],
+["nazev",str],
+["priorita",int],
+]
+
+
+Tabulka los_interpelaci
+[
+    ["id_los",int],
+["datum_los",str],
+["typ_los",str],
+["cas_los",str],
+["id_schuze",int],
+["id_bod",int],
+["schuze",int],
+["id_org",int],
+]
+
+
+Tabulka poradi
+[
+    ["id_poradi",int],
+["id_losovani",int],
+["id_poslanec",int],
+["id_ministr",int],
+["vec",str],
+["poradi_l",int],
+["priorita",int],
+["vec32",str],
+]
+
+
+Tabulka ui_stav
+[
+    ["id_poradi",int],
+["id_typ",int],
+["steno",int],
+]

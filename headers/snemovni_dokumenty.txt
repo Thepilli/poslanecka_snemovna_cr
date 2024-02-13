@@ -1,0 +1,12 @@
+Tabulka sd_dokument
+[
+["id_dokument",int],
+["id_obdobi",int],
+["cislo",int],
+["typ",int],
+["nazev",str],
+["predkladatel",str],
+["ct",int],
+["id_x",int],
+["end",str],
+]

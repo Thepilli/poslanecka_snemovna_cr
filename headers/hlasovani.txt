@@ -1,0 +1,74 @@
+# hlXXXXs.unl, kde XXXX je reference volebního období.
+Tabulka hl_hlasovani
+[
+    ["id_hlasovani",int],
+["id_organ",int],
+["schuze",int],
+["cislo",int],
+["bod",int],
+["datum",str],
+["čas",str],
+["pro",int],
+["proti",int],
+["zdrzel",int],
+["nehlasoval",int],
+["prihlaseno",int],
+["kvorum",int],
+["druh_hlasovani",str],
+["vysledek",str],
+["nazev_dlouhy",str],
+["nazev_kratky",str],
+]
+
+
+# hlXXXXhN.unl, kde XXXX je reference volebního období a N je číslo části
+Tabulka hl_poslanec
+[
+    ["id_poslanec",int],
+["id_hlasovani",int],
+["vysledek",str],
+]
+
+Tabulka omluvy
+[
+    ["id_organ",int],
+["id_poslanec",int],
+["den",str],
+["od",str],
+["do",str],
+]
+
+
+# hlXXXXz.unl, kde XXXX je reference volebního období.
+Tabulka hl_check
+[
+    ["id_hlasovani",int],
+["turn",int],
+["mode",int],
+["id_h2",int],
+["id_h3",int],
+]
+
+
+# hlXXXXx.unl, kde XXXX je reference volebního období.
+Tabulka hl_zposlanec
+[
+    ["id_hlasovani",int],
+["id_osoba",int],
+["mode",int],
+]
+
+
+# hlXXXXv.unl, kde XXXX je reference volebního období.
+Tabulka hl_vazby 
+[
+    ["id_hlasovani",int],
+["turn",int],
+["typ",int],
+]
+
+
+Tabulka zmatecne
+[
+    ["id_hlasovani",int],
+    ]

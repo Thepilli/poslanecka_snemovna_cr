@@ -1,0 +1,24 @@
+Tabulka se_druh_tisku
+[
+    ["senatni_tisky","id_druh",int],
+["senatni_tisky","nazev_druhu",str],
+]
+
+Tabulka se_tisk
+[
+    ["senatni_tisky","id_tisk",int],
+["senatni_tisky","id_druh",int],
+["senatni_tisky","id_stav",int],
+["senatni_tisky","cislo_tisku",int],
+["senatni_tisky","id_obdobi",int],
+["senatni_tisky","anotace",str],
+["senatni_tisky","nazev_tisku",str],
+]
+
+
+Tabulka psp2senat
+[
+    ["senatni_tisky","id_psp",int],
+["senatni_tisky","id_senat",int],
+["senatni_tisky","typ",int],
+]

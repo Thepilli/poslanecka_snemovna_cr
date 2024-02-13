@@ -1,0 +1,109 @@
+Tabulka typ_organu
+[
+    ["id_typ_org",int],
+["typ_id_typ_org",int],
+["nazev_typ_org_cz",str ],
+["nazev_typ_org_en",str ],
+["typ_org_obecny",int],
+["priorita",int],
+]
+
+
+Tabulka typ_funkce
+[
+    ["id_typ_funkce",int],
+["id_typ_org",int],
+["typ_funkce_cz",str ],
+["typ_funkce_en",str ],
+["priorita",int],
+["typ_funkce_obecny",int],
+]
+
+
+Tabulka funkce
+[
+    ["id_funkce",int],
+["id_organ",int],
+["id_typ_funkce",int],
+["nazev_funkce_cz",str ],
+["priorita",int],
+]
+
+
+Tabulka organy
+[
+    ["id_organ",int],
+["organ_id_organ",int],
+["id_typ_organu",int],
+["zkratka",str ],
+["nazev_organu_cz",str ],
+["nazev_organu_en",str ],
+["od_organ",str],
+["do_organ",str],
+["priorita",int],
+["cl_organ_base",int],
+]
+
+
+Tabulka osoby
+[
+    ["id_osoba",int],
+["pred",str ],
+["jmeno",str ],
+["prijmeni",str ],
+["za",str ],
+["narozeni",str],
+["pohlavi",str ],
+["zmena",str],
+["umrti",str],
+]
+
+
+Tabulka zarazeni
+[
+    ["id_osoba",int],
+["id_of",int],
+["cl_funkce",int],
+["od_o",str],
+["do_o",str],
+["od_f",str],
+["do_f",str],
+]
+
+
+Tabulka poslanec
+[
+    ["id_poslanec",int],
+["id_osoba",int],
+["id_kraj",int],
+["id_kandidatka",int],
+["id_obdobi",int],
+["web",str ],
+["ulice",str ],
+["obec",str ],
+["psc",str ],
+["email",str ],
+["telefon",str ],
+["fax",str ],
+["psp_telefon",str ],
+["facebook",str ],
+["foto",int],
+]
+
+Tabulka pkgps
+[
+    ["id_poslanec",int],
+["adresa",str ],
+["sirka",str ],
+["delka",str ],
+]
+
+Tabulka osoba_extra
+[
+    ["id_osoba",int],
+["id_org",int],
+["typ",int],
+["obvod",int],
+["strana",str ],
+["id_external",int],
+]

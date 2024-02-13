@@ -1,0 +1,28 @@
+Tabulka steno
+[
+    ["id_steno",int],
+["id_org",int],
+["schuze",int],
+["turn",int],
+["od_steno",str],
+["jd",int],
+["od_t",int],
+["do_t",int],
+]
+
+Tabulka steno_bod
+[
+    ["id_steno",int],
+["aname",int],
+["id_bod",int],
+]
+
+
+Tabulka rec
+[
+    ["id_steno",int],
+["id_osoba",int],
+["aname",int],
+["id_bod",int],
+["druh",int],
+]

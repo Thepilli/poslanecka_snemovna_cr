@@ -1,0 +1,28 @@
+Tabulka druh_predpisu
+[
+    ["id_dp",int],
+["nazev_druhu",str],
+["priorita",int],
+]
+
+
+Tabulka sbirka
+[
+    ["id_sbirka",int],
+["cislo",int],
+["rok",int],
+["id_dp",int],
+["id_tisk",int],
+["datum",str],
+["castka",int],
+]
+
+Tabulka sb_pre
+[
+    ["id_tisk",int],
+["cz",int],
+["id_sbirka",int],
+["typ",int],
+["zdroj",int],
+["xzdroj",int],
+]

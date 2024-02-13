@@ -1,0 +1,47 @@
+Tabulka schuze
+[
+    ["id_schuze",int],
+["id_org",int],
+["schůze",int],
+["od_schuze",str],
+["do_schuze",str],
+["aktualizace",str],
+["pozvanka",int],
+]
+
+Tabulka schuze_stav
+[
+    ["id_schuze",int],
+["stav",int],
+["typ",int],
+["text_dt",str],
+["text_st",str],
+["tm_line",str],
+]
+
+
+Tabulka bod_stav
+[
+    ["id_bod_stav",int],
+["popis",str],
+]
+
+
+Tabulka bod_schuze
+[
+    ["id_bod",int],
+["id_schuze",int],
+["id_tisk",int],
+["id_typ",int],
+["bod",int],
+["uplny_naz",str],
+["uplny_kon",str],
+["poznamka",str],
+["id_bod_stav",int],
+["pozvanka",int],
+["rj",int],
+["pozn2",str],
+["druh_bodu",int],
+["id_sd",int],
+["zkratka",str],
+]
